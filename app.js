@@ -18,7 +18,7 @@ function makeRows(pixel) {
 
 
 
-makeRows(16, 16);
+makeRows(pixel);
 
 function refreshPage() {
         while (container.hasChildNodes()){
